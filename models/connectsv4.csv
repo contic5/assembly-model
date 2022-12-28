@@ -1,0 +1,20 @@
+START is used to indicate when the rows start. Other lines can be entered before then.
+Lines with one number indicate parts that will have connects on them.
+The following lines with multiple values indicate what parts will connect and their x,y and z location.
+partname,partid,x,y,z
+START
+vehiclebase,8
+wheel1,0,-12,0,0
+wheel2,1,12,0,0
+wheel3,2,-12,0,12
+wheel4,3,6,0,12
+wheel5,4,-12,0,24
+wheel6,5,12,0,24
+wheel7,6,-12,0,36
+wheel8,7,6,0,36
+seat1,9,-12,12,0
+seat2,10,-12,12,0
+backseat,11,-12,12,18
+front,12,0,12,-20
+back,13,0,12,20
+roof,14,0,30,0

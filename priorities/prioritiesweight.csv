@@ -1,0 +1,11 @@
+"START" is used to indicate when the rows start. Other lines can be entered before then.
+Row 1 holds the max priorities for humans.
+Row 2 holds the min priorities for humans.
+Row 3 holds the max priorities for robots.
+Row 4 holds the min priorities for robots.
+START
+Distance,Weight,Danger,Stability,Size
+0,0,0,0,0
+0,100,0,0,0
+0,100,0,0,0
+0,0,0,0,0

@@ -1,0 +1,14 @@
+START is used to indicate when the rows start. Other lines can be entered before then.
+Lines with one number indicate parts that will have connects on them.
+The following lines with multiple values indicate what parts will connect and their x,y and z location.
+partname,partid,x,y,z
+START
+truebase,0
+cargobed,1,0,0,0
+wheel1,2,0,-5,-5
+middleback,3,10,0,0
+wheel2,4,0,-5,5
+middlefront,5,20,0,0
+wheel3,6,30,-5,-5
+front,7,30,0,0
+wheel4,8,30,-5,5

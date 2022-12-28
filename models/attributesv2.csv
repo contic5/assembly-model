@@ -1,0 +1,21 @@
+START is used to indicate when the rows start. Other lines can be entered before then
+This model is meant to be more complex so that priorities can be demonstrated
+"Distance unit: cm, Weight unit: kg"
+START
+partid,Label,isbase,Length,Width,Height,Weight,Danger,Stability
+0,wheel1,TRUE,6,3,6,2,3,4
+1,wheel2,TRUE,6,3,6,2,3,4
+2,wheel3,TRUE,6,3,6,2,3,4
+3,wheel4,TRUE,6,3,6,2,3,4
+4,tire1,FALSE,9,3,9,3,3,6
+5,tire2,FALSE,9,3,9,3,3,6
+6,tire3,FALSE,9,3,9,3,3,6
+7,tire4,FALSE,9,3,9,3,3,6
+8,frontmirror,FALSE,15,15,3,2,15,2
+9,rearmirror,FALSE,15,15,3,2,15,2
+10,vehiclebase,TRUE,54,42,30,15,10,15
+11,vehiclebottombase,TRUE,54,42,30,15,10,15
+12,seat1,FALSE,12,12,15,7,2,4
+13,seat2,FALSE,12,12,15,7,2,4
+14,backseat,FALSE,36,12,15,11,5,8
+15,sunroof,FALSE,21,21,6,7,15,2

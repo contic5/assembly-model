@@ -1,0 +1,45 @@
+Results
+average distance for prioritiescskoriginal is 394.6
+average distance for prioritiescskv3 is 417.3
+average distance for prioritiesblank is 404.7
+average distance for prioritiesclosest is 358.5
+average distance for prioritiesnorobot is 379.4
+average distance for work is 370.8
+average distance for workv3 is 372.0
+average distance for thesispriorities is 367.5
+
+average weight for prioritiescskoriginal is 57.4
+average weight for prioritiescskv3 is 55.3
+average weight for prioritiesblank is 57.5
+average weight for prioritiesclosest is 78.6
+average weight for prioritiesnorobot is 58.9
+average weight for work is 52.8
+average weight for workv3 is 52.7
+average weight for thesispriorities is 52.5
+
+average stability for prioritiescskoriginal is 8.1
+average stability for prioritiescskv3 is 7.6
+average stability for prioritiesblank is 9.4
+average stability for prioritiesclosest is 19.1
+average stability for prioritiesnorobot is 9.3
+average stability for work is 7.1
+average stability for workv3 is 7.1
+average stability for thesispriorities is 7.0
+
+average danger for prioritiescskoriginal is 11.6
+average danger for prioritiescskv3 is 11.1
+average danger for prioritiesblank is 11.9
+average danger for prioritiesclosest is 17.5
+average danger for prioritiesnorobot is 12.1
+average danger for work is 10.6
+average danger for workv3 is 10.6
+average danger for thesispriorities is 10.5
+
+average time for prioritiescskoriginal is 29.8
+average time for prioritiescskv3 is 30.1
+average time for prioritiesblank is 29.5
+average time for prioritiesclosest is 28.8
+average time for prioritiesnorobot is 29.1
+average time for work is 28.0
+average time for workv3 is 28.1
+average time for thesispriorities is 27.8

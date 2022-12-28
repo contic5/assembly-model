@@ -1,0 +1,14 @@
+"START" is used to indicate when the rows start. Other lines can be entered before then.
+START
+partid,Label,isbase,Length,Width,Height,Weight,Danger,Stability
+0,wheel1,False,12,3,12,10,3,4
+1,wheel2,False,12,3,12,10,3,4
+2,wheel3,False,12,3,12,10,3,4
+3,wheel4,False,12,3,12,10,3,4
+4,vehiclebase,True,18,14,10,30,10,15
+5,seat1,False,12,12,15,5,2,4
+6,seat2,False,12,12,15,5,2,4
+7,seat3,False,12,12,15,5,2,4
+8,front,False,12,30,30,15,8,10
+9,back,False,20,30,30,15,8,10
+10,roof,False,48,30,12,20,12,4
